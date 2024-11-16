@@ -1,4 +1,5 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2024 🤑
+## By Mudassir Alam
 
 A curated list of deals on Black Friday 2024.
 
